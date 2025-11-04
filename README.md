@@ -62,9 +62,6 @@ auto-refactor-script/
 │
 └── refatorador.py # Script principal
 
-yaml
-Copiar código
-
 ---
 
 ## 🚀 Como Executar
@@ -75,15 +72,11 @@ Copiar código
 Configure sua chave da API OpenAI:
 Edite a linha no início do script:
 
-python
-Copiar código
 openai.api_key = "SUA_CHAVE_API_GPT_AQUI"
 Coloque seu projeto MVC dentro da pasta mvc_source.
 
 Execute o script:
 
-bash
-Copiar código
 python refatorador.py
 Verifique os resultados:
 
@@ -128,3 +121,4 @@ Este `README.md`:
 
 Deseja que eu gere também o **README do repositório geral** (por exemplo, explicando o propósito do projeto completo e não só do script)?  
 Assim, você teria um README para o **repositório** e outro dentro da **pasta do script** — o que fica muito bem para apresentação à banca.
+
