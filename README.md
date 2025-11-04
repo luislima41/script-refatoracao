@@ -108,17 +108,4 @@ Realizar experimentos adicionais com diferentes modelos de linguagem.
 Este projeto é distribuído sob a licença MIT.
 Sinta-se livre para usar, modificar e aprimorar o código para fins acadêmicos ou de pesquisa.
 
----
-
-### ✅ Pronto para o repositório
-
-Este `README.md`:
-- Está totalmente coerente com a **descrição teórica** da seção do seu TCC;  
-- É formatado no padrão **Markdown**, ideal para exibição no **GitHub**;  
-- Mostra profissionalismo e domínio técnico na apresentação do projeto.  
-
----
-
-Deseja que eu gere também o **README do repositório geral** (por exemplo, explicando o propósito do projeto completo e não só do script)?  
-Assim, você teria um README para o **repositório** e outro dentro da **pasta do script** — o que fica muito bem para apresentação à banca.
 
