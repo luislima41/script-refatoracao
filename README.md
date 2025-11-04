@@ -10,10 +10,6 @@ Estrutura do Projeto
 
 auto-refactor-script/
 ├── main.py
-├── prompts/
-├── modules/
-├── outputs/
-└── README.md
 
 Requisitos
 
@@ -58,3 +54,4 @@ Observações de Segurança
 NÃO inclua chaves de API no repositório. Utilize variáveis de ambiente ou arquivos de configuração ignorados pelo Git (.gitignore).
 
 Registre e audite as interações com a API (logs) sem expor dados sensíveis.
+
