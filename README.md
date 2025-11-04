@@ -28,8 +28,11 @@ Execução (exemplo)
 Clone o repositório, ajuste configurações e execute:
 
 git clone https://github.com/SEU_USUARIO/auto-refactor-script.git
-cd auto-refactor-script
-#editar configurações (API key, paths) em config.json ou env
+
+cd auto-refactor-
+
+editar configurações (API key, paths) em config.json ou env
+
 python main.py --input ../mvc-legacy-system --output ../clean-architecture-system
 
 
@@ -54,6 +57,7 @@ Observações de Segurança
 NÃO inclua chaves de API no repositório. Utilize variáveis de ambiente ou arquivos de configuração ignorados pelo Git (.gitignore).
 
 Registre e audite as interações com a API (logs) sem expor dados sensíveis.
+
 
 
 
